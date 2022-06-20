@@ -24,6 +24,6 @@ Navegador Chrome, Edge, Firefox e etc
 
 1.  Apos instalar as dependencias rode o comando abaixo:
 
-Npx cypress open
+*Npx cypress open*
 
 Sera aberta a interface do cypress onde é possivel selecionar o arquivo SignUp.spec.js que é responsável por rodar o projeto
