@@ -1,0 +1,26 @@
+{
+    "signup": {
+        "email": "teste1@rocketmail.com",
+        "name": "Kareen Abdul",
+        "password": "123456", 
+        "password2": "123456"   
+    },
+    "blankEmail": {
+            "name": "Kareen Abdul",
+            "password": "123456",
+            "password2": "123456" 
+    },
+    "blankName": {
+                "name": " ",
+                "email": "teste3@rocketmail.com",
+                "password": "123456",
+                "password2": "123456"               
+    },
+    "incorrectPassword": {
+        "email": "teste3@rocketmail.com",
+        "name": "Kareen Abdul",
+        "password": "123456",
+        "password2": "123*"                
+}
+
+}
